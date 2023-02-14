@@ -1,2 +1,3 @@
-# frontend
-The frontend of the P2P network
+Frontend for P2P workload sharing application
+
+Run locally by: npm start
