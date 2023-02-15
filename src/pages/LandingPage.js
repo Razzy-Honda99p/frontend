@@ -1,5 +1,7 @@
 /**
  * The Landing page of the whole website
+ * The left side is the sidebar, the right side is the page's content
+ * Outlet is being rendered inside App.js through Router
  */
 import React from 'react';
 import { Outlet } from "react-router-dom";
