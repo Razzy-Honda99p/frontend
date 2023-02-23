@@ -1,0 +1,39 @@
+#create-tasks{
+    width: 60%
+}
+
+#general-info{
+    width: 40%;
+}
+
+#outward-tasks{
+    width: 50%;
+    flex-grow: 1;
+}
+
+#inward-tasks{
+    width: 50%;
+    flex-grow: 1;
+}
+
+#btn-task{
+    background: #2C80FF;
+    border-radius: 8px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: capitalize;
+    padding: 2% 6% 2% 6%;
+}
+
+#radio-btn-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.radio {
+    width: 50%;
+    box-sizing: border-box;
+}

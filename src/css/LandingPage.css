@@ -45,12 +45,40 @@
 #landing-content{
     padding-right:0;
     margin-left: 17%;
+    padding-left: 2%;
+    padding-right: 3%;
     width: 100vw;
     height: 100vh;
     overflow:auto;
     background-color: #FAFCFF;
 }
 
+.card{
+    background-color: white;
+    border: 1px solid #CFD3DA;
+    border-radius: 8px;
+    padding: 0% 2% 2% 2%;
+    margin: 1%;
+}
+
+.title{
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.page-title-row{
+    margin: 2% 2% 2% 0%;
+}
+
+.rows{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-title{
+    font-size: 26px;
+}
 .link{
     text-decoration: none;
     color: black;

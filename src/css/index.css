@@ -1,6 +1,13 @@
 * {
     font-size: 100%;
     font-family: Mulish;
+    font-size: 20px;
+    text-transform: capitalize;
+    line-height: 25px;
+}
+
+.grey{
+    color: #4B4C52;
 }
 
 body{
