@@ -33,6 +33,10 @@
     flex-wrap: wrap;
 }
 
+#submit-btn-container{
+    text-align: right;
+}
+
 .radio {
     width: 50%;
     box-sizing: border-box;

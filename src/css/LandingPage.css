@@ -87,3 +87,14 @@
 .link:hover{
     font-weight: bolder;
 }
+
+table {
+    table-layout: auto;
+    width: 100%;
+    margin-top: 9%;
+}
+
+td {
+    text-align: center;
+    line-height: 50px;
+}

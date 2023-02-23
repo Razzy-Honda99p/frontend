@@ -53,9 +53,13 @@ function CreateTaskCard(props){
                 <div id="radio-btn-div">
                     {radio_btns}
                 </div>
-                <button id="btn-task" type="submit">
-                    Submit
-                </button>
+                <br/>
+                <div id="submit-btn-container">
+                    <button id="btn-task" type="submit">
+                        Submit
+                    </button>
+                </div>
+
             </form>
         </div>
    );
