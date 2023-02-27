@@ -5,8 +5,8 @@ import React from 'react';
 
 function Block(props){
     return(
-        <div className={props.className}>
-            <p><span>Block:</span>{props.block}</p>
+        <div className="card block">
+            <p><span>Username:</span>{props.username}</p>
             <p><span>Nonce:</span>{props.nonce}</p>
             <p><span>Data:</span>{props.data}</p>
             <p><span>Prev:</span>{props.prev}</p>
